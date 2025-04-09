@@ -3,6 +3,11 @@
 ## Overview
 Text2Model is a Unity Editor plugin that makes AI Model Generation easy. The plugin leverages OpenAI's DALL-E model to create images based on text descriptions, then processes these images through Tencent's Hunyuan3D2 to generate 3D models.
 
+### Editor Modification
+![Editor View](./Images/editorView1.png)
+### Model Generation
+![Result View](./Images/editorView2.png)
+
 ## Features
 - Generate one or multiple image variations from a single prompt using DALLE3
 - Select your preferred image from the generated options
